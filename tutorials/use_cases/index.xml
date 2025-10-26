@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Use Cases on multiPhysicsFoam</title>
+    <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/</link>
+    <description>Recent content in Use Cases on multiPhysicsFoam</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 10 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial 1</title>
+      <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_1/tutorial_1/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_1/tutorial_1/</guid>
+      <description>&lt;div style=&#34;max-width: 100%; width: 100%; margin: 0; padding: 0;&#34;&gt;&#xA;&lt;h1 id=&#34;1-forced-convection-heat-transfer-from-a-flat-plate&#34;&gt;1. Forced convection heat transfer from a flat plate&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#1-forced-convection-heat-transfer-from-a-flat-plate&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; id=&#34;MathJax-script&#34; async&#xD;&#xA;  src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;flowing tangentially over a solid plate that is maintained at a constant&#xA;temperature on its underside. The upper surface of the plate is thermally&#xA;coupled to the fluid. The configuration is arranged to capture strong thermal&#xA;gradients near the leading edge and within the developing boundary layer.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://github.com/NESH100/multiPhysicsFoamWebsite/blob/main/static/images/Figures/FOHPmesh.png&#34; alt=&#34;Alt text for my image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial 2</title>
+      <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_2/tutorial_2/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_2/tutorial_2/</guid>
+      <description>&lt;div style=&#34;text-align: justify;max-width: 95%; width: 100%; margin: 0; padding: 0;&#34;&gt;&#xA;&lt;!-- ---&#xA;&#xA;title: &#34;Use Case 7.2 – Shell-and-Tube Heat Exchanger&#34; linkTitle: &#34;7.2&#xA;Shell-and-Tube Heat Exchanger&#34; weight: 72 description: &#34;Industrial use case&#xA;demonstrating conjugate heat transfer (CHT) in a shell-and-tube heat exchanger&#xA;using the multiRegionFoam solver.&#34;&#xA;&#xA;--- --&gt;&#xA;&lt;h1 id=&#34;72-shell-and-tube-heat-exchanger&#34;&gt;7.2 Shell-and-Tube Heat Exchanger&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#72-shell-and-tube-heat-exchanger&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; id=&#34;MathJax-script&#34; async&#xD;&#xA;  src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;The next example demonstrates an industrial application where conjugate heat&#xA;transfer (CHT) takes place.&lt;/p&gt;&#xA;&lt;!-- ![Image 7.2.2 – Computational mesh of the heat exchanger](/tutorial_2/Fig-8.png) --&gt;&#xA;&lt;!-- &lt;figure style=&#34;text-align: center;&#34;&gt;&#xA;  &lt;img&#xA;    src=&#34;Fig-8.png&#34;&#xA;    alt=&#34;Fig-8&#34;&#xA;    style=&#34;width: 80%; display: block; margin: 20px auto;&#34;&#xA;  /&gt;&#xA;  &lt;figcaption&gt;&lt;strong&gt; Figure 1:&lt;/strong&gt;Geometry of the shell-and-tube heat exchanger&lt;/figcaption&gt;&#xA;&lt;/figure&gt; --&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/multiPhysicsFoam.github.io/static/images/Figures/Fig-8.png&#34; alt=&#34;Alt text for my image&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial 3</title>
+      <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_3/tutorial_3/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_3/tutorial_3/</guid>
+      <description>&lt;!-- ---&#xA;title: &#34;Use Case 7.3 – Air Bubble Rising in Water&#34;&#xA;linkTitle: &#34;7.3 Air Bubble Rising in Water&#34;&#xA;weight: 73&#xA;description: &#34;Demonstration of the Arbitrary Lagrangian–Eulerian (ALE) interface-tracking method in multiRegionFoam using a rising air bubble case.&#34;&#xA;--- --&gt;&#xA;&lt;div style=&#34;text-align: justify;max-width: 95%; width: 100%; margin: 0; padding: 0;&#34;&gt;&#xA;&lt;h1 id=&#34;73-air-bubble-rising-in-water&#34;&gt;7.3 Air Bubble Rising in Water&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#73-air-bubble-rising-in-water&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; id=&#34;MathJax-script&#34; async&#xD;&#xA;  src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;This example demonstrates the use of &lt;strong&gt;multiRegionFoam&lt;/strong&gt; to implement a&#xA;&lt;strong&gt;moving-mesh Arbitrary Lagrangian–Eulerian (ALE)&lt;/strong&gt; interface-tracking method,&#xA;originally developed by &lt;strong&gt;Hirt et al. [74]&lt;/strong&gt; and implemented in &lt;strong&gt;OpenFOAM&lt;/strong&gt; by&#xA;&lt;strong&gt;Tuković and Jasak [75]&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial 4</title>
+      <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_4/tutorial_4/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_4/tutorial_4/</guid>
+      <description>&lt;!-- ---&#xA;title: &#34;Use Case 7.4 – Channel Flow Around an Elastic Object&#34;&#xA;linkTitle: &#34;7.4 Channel Flow Around an Elastic Object&#34;&#xA;weight: 74&#xA;description: &#34;Demonstration of fluid–structure interaction (FSI) using the ALE interface-tracking method in multiRegionFoam.&#34;&#xA;--- --&gt;&#xA;&lt;div style=&#34;text-align: justify;max-width: 95%; width: 100%; margin: 0; padding: 0;&#34;&gt;&#xA;&lt;h1 id=&#34;74-channel-flow-around-an-elastic-object&#34;&gt;7.4 Channel Flow Around an Elastic Object&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#74-channel-flow-around-an-elastic-object&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; id=&#34;MathJax-script&#34; async&#xD;&#xA;  src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;This use case extends the &lt;strong&gt;Arbitrary Lagrangian–Eulerian (ALE)&lt;/strong&gt;&#xA;interface-tracking method, originally developed for multiphase flow, to handle&#xA;&lt;strong&gt;fluid–structure interaction (FSI)&lt;/strong&gt; problems within &lt;strong&gt;multiRegionFoam&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tutorial 5</title>
+      <link>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_5/tutorial_5/</link>
+      <pubDate>Fri, 10 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/multiPhysicsFoam.github.io/tutorials/use_cases/tutorial_5/tutorial_5/</guid>
+      <description>&lt;div style=&#34;text-align: justify;max-width: 100%; width: 100%; margin: 0; padding: 0;&#34;&gt;&#xA;&lt;!--&#xA;&#xA;title: &#34;Use Case 7.5 – Polymer Electrolyte Fuel Cell (PEMFC)&#34; linkTitle: &#34;7.5&#xA;Polymer Electrolyte Fuel Cell&#34; weight: 75 description: &#34;Demonstration of a&#xA;multi-physics electrochemical simulation using multiRegionFoam for a single&#xA;polymer electrolyte fuel cell (PEMFC) channel.&#34; --- --&gt;&#xA;&lt;h1 id=&#34;75-polymer-electrolyte-fuel-cell&#34;&gt;7.5 Polymer Electrolyte Fuel Cell&lt;a class=&#34;td-heading-self-link&#34; href=&#34;#75-polymer-electrolyte-fuel-cell&#34; aria-label=&#34;Heading self-link&#34;&gt;&lt;/a&gt;&lt;/h1&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;script type=&#34;text/javascript&#34; id=&#34;MathJax-script&#34; async&#xD;&#xA;  src=&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;&gt;&#xD;&#xA;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&lt;p&gt;This use case demonstrates the capability of &lt;strong&gt;multiRegionFoam&lt;/strong&gt; to simulate&#xA;&lt;strong&gt;complex multi-physical systems&lt;/strong&gt;, focusing on a &lt;strong&gt;single Polymer Electrolyte&#xA;Membrane Fuel Cell (PEMFC)&lt;/strong&gt; channel assembly.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
