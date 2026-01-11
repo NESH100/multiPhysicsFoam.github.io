@@ -1,39 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/tutorial_1/</loc>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/tutorial_1/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/tutorial_2/</loc>
+  </url>
+  <url>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/tutorial_3/</loc>
+  </url>
+  <url>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/tutorial_4/</loc>
+  </url>
+  <url>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+  </url>
+  <url>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/documentation/</loc>
     <lastmod>2026-01-11T16:26:35+01:00</lastmod>
   </url>
   <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/tutorial_2/</loc>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/</loc>
     <lastmod>2026-01-11T16:26:35+01:00</lastmod>
   </url>
   <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/tutorial_3/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/tutorials/tutorial_5/</loc>
   </url>
   <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/tutorial_4/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/documentation/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/tutorials/tutorial_5/</loc>
-    <lastmod>2026-01-11T16:26:35+01:00</lastmod>
-  </url>
-  <url>
-    <loc>https://www.kubeflow.orghttp://localhost:1313/NESH100/multiPhysicsFoam.github.io/docs/</loc>
+    <loc>https://www.kubeflow.orghttp://localhost:1313/multiPhysicsFoam.github.io/docs/</loc>
     <lastmod>2026-01-11T16:26:35+01:00</lastmod>
   </url>
 </urlset>

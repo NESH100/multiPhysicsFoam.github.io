@@ -7118,7 +7118,7 @@ limitations under the License.
                     }
 
                     var query = $(this).val();
-                    var searchPage = "http://localhost:1313/NESH100/multiPhysicsFoam.github.io/search/?q=" + query;
+                    var searchPage = "http://localhost:1313/multiPhysicsFoam.github.io/search/?q=" + query;
                     document.location = searchPage;
 
                     return false;
